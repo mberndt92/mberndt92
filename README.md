@@ -92,24 +92,56 @@ It also shows the roles of the crew members as well as some information about th
 </table>
 
 ### [iExpense](https://github.com/mberndt92/iExpense)
+iExpense is an app that lets you keep track of personal and business expenses in a simple list.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
+    <tr> 
+    <td> View list of all expenses, categorizes by expense type </td> 
+    <td> Accessibility </td>
+  </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> Add personal/business expenses </td> 
+    <td> Currency Formatting </td>
+  </tr>
+    <tr> 
+    <td> Delete expenses </td> 
+    <td> Save to UserDefaults </td>
   </tr>
 </table>
   
 ### [BucketList](https://github.com/mberndt92/BucketList)
+BucketList is an app that allows you to keep track of locations you might want to visit.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> View world map</td> 
+    <td> MapKit </td>
   </tr>
+  <tr> 
+    <td> Add annotations to the map </td> 
+    <td> MVVM </td>
+  </tr>
+  <tr>
+    <td> View Location details, assign name & description </td> 
+    <td> Biometric Authentification (FaceId / TouchId)</td>
+  </tr>
+  <tr>
+    <td> View points of interests nearby </td> 
+    <td> Wikipedia for nearby locations  </td>
+  </tr>
+  <tr>
+    <td> </td> 
+    <td> Save to documents </td>
+  </tr>
+  <tr>
+    <td> </td> 
+    <td> Result Type </td>
+  </tr>
+  
 </table>
 
 ### [InstaFilter](https://github.com/mberndt92/InstaFilter)
+InstaFilter is a handy app, that allows you to add various filters to your photos and save them to your photo library.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
@@ -146,29 +178,61 @@ It also shows the roles of the crew members as well as some information about th
 </table>
 
 ### [CupcakeCorner](https://github.com/mberndt92/CupcakeCorner)
+Cupcake Corner is an app that allows you to order virtual cupcakes right to the comfort of your imagination.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> Select Cupcake details (flavor, amount, special requests) </td> 
+    <td> Asynchronous image loading </td>
   </tr>
+  <tr> 
+    <td> Add Delivery Details </td> 
+    <td> Segmented controls for dynamic fields </td>
+  </tr>
+  <tr> 
+    <td> Checkout & Place order </td> 
+    <td> Reqres for dummy api </td>
+  </tr>
+  
 </table>
 
 ### [Bookworm](https://github.com/mberndt92/Bookworm)
+Bookworm is an app that helps you keep track of books you read and allows you to provide a review with a rating so you might recommend it to friends.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> List of books </td> 
+    <td> Custom star rating view </td>
+  </tr>
+  <tr> 
+    <td> Add book (title, author, genre, review, star rating) </td> 
+    <td> Custom emoji rating view </td>
+  </tr>
+  <tr> 
+    <td> Custom icon based on rating given </td> 
+    <td> Core Data </td>
+  </tr>
+  <tr> 
+    <td> Delete books </td> 
+    <td> </td>
   </tr>
 </table>
 
 ### [WordScramble](https://github.com/mberndt92/WordScramble)
+WordScramble is a game that provides you with a random word and challenges you to find as many words that can be constructed using the letters from the random word.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> Generate random word for game </td> 
+    <td> Pick random element from txt file </td>
+  </tr>
+  <tr> 
+    <td> Enter words to score points </td> 
+    <td> Validation to check if words are valid based on various criteria </td>
+  </tr>
+  <tr> 
+    <td> Start a new game </td> 
+    <td>  </td>
   </tr>
 </table>
 
