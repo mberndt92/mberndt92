@@ -10,6 +10,9 @@ A few pieces of information about me, since you made it all the way to my GitHub
 Below I'm sharing an overview of my public repositories, an overview of the features of each repository as well as the tech used.
 This is something I created for myself so I have an easy way to find projects I used certain techniques in to re-use those or check the implementation one more time.
 
+If you are interested, jump to the repository side.
+I tried to upload animated gifs showing the main features for most of them.
+
 ### [Hot Prospects](https://github.com/mberndt92/HotProspects)
 Hot prospects is an app that can be useful for e.g. meet-ups or conferences.
 You can scan potential prospect's QR codes to add them, mark them as contacted and set reminders.
