@@ -310,7 +310,7 @@ WordScramble is a game that provides you with a random word and challenges you t
   </tr>
 </table>
 
-### 🪨🗞️ [RockPaperScissors](https://github.com/mberndt92/RockPaperScissors)
+### 🪨🗞️✂️ [RockPaperScissors](https://github.com/mberndt92/RockPaperScissors)
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
@@ -319,7 +319,7 @@ WordScramble is a game that provides you with a random word and challenges you t
   </tr>
 </table>
 
-### [WeSplit](https://github.com/mberndt92/WeSplit)
+### 💸 [WeSplit](https://github.com/mberndt92/WeSplit)
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
@@ -328,7 +328,7 @@ WordScramble is a game that provides you with a random word and challenges you t
   </tr>
 </table>
 
-### [ConvertMe](https://github.com/mberndt92/ConvertMe)
+### 💦 [ConvertMe](https://github.com/mberndt92/ConvertMe)
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
