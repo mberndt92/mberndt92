@@ -13,7 +13,7 @@ This is something I created for myself so I have an easy way to find projects I 
 If you are interested, jump to the repository side.
 I tried to upload animated gifs showing the main features for most of them.
 
-### [Hot Prospects](https://github.com/mberndt92/HotProspects)
+### 🔥 [Hot Prospects](https://github.com/mberndt92/HotProspects)
 Hot prospects is an app that can be useful for e.g. meet-ups or conferences.
 You can scan potential prospect's QR codes to add them, mark them as contacted and set reminders.
 <table>
@@ -44,7 +44,7 @@ You can scan potential prospect's QR codes to add them, mark them as contacted a
   </tr>
 </table>
 
-### [iMeetUp](https://github.com/mberndt92/iMeetUp)
+### 🙋🏻‍♂️ [iMeetUp](https://github.com/mberndt92/iMeetUp)
 iMeetUp is an app that can be useful for conferences or meet-ups.
 It's main purpose is to be able to add people you met by e.g. taking a picture with them, add it with their name & an optional location to your contacts.
 <table>
@@ -72,7 +72,7 @@ It's main purpose is to be able to add people you met by e.g. taking a picture w
 </table>
 
 
-### [Moonshot](https://github.com/mberndt92/Moonshot)
+### 🚀 [Moonshot](https://github.com/mberndt92/Moonshot)
 Moonshot is an app that shows all Apollo missions, their details such as launch date, mission highlights and crew members.
 It also shows the roles of the crew members as well as some information about them.
 <table>
@@ -91,7 +91,7 @@ It also shows the roles of the crew members as well as some information about th
   </tr>
 </table>
 
-### [iExpense](https://github.com/mberndt92/iExpense)
+### 💸 [iExpense](https://github.com/mberndt92/iExpense)
 iExpense is an app that lets you keep track of personal and business expenses in a simple list.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
@@ -109,7 +109,7 @@ iExpense is an app that lets you keep track of personal and business expenses in
   </tr>
 </table>
   
-### [BucketList](https://github.com/mberndt92/BucketList)
+### 📍 [BucketList](https://github.com/mberndt92/BucketList)
 BucketList is an app that allows you to keep track of locations you might want to visit.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
@@ -140,7 +140,7 @@ BucketList is an app that allows you to keep track of locations you might want t
   
 </table>
 
-### [InstaFilter](https://github.com/mberndt92/InstaFilter)
+### 🌇 [InstaFilter](https://github.com/mberndt92/InstaFilter)
 InstaFilter is a handy app, that allows you to add various filters to your photos and save them to your photo library.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
@@ -158,7 +158,7 @@ InstaFilter is a handy app, that allows you to add various filters to your photo
   </tr>
 </table>
 
-### [FriendFace](https://github.com/mberndt92/FriendFace)
+### 🧍🏻‍♀️ [FriendFace](https://github.com/mberndt92/FriendFace)
 FriendFace is a social media app that let's you view people, their information as well as their online status
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
@@ -176,7 +176,7 @@ FriendFace is a social media app that let's you view people, their information a
   </tr>
 </table>
 
-### [LoanCalculator](https://github.com/mberndt92/LoanCalculator)
+### 🏦 [LoanCalculator](https://github.com/mberndt92/LoanCalculator)
 !Not a financial advisor and not guaranteed to be accurate!
 LoanCalculator is an app that allows you to estimate your monthly expenses for a loan for purchasing a property based on various input fields such as price of the property, down payment, interest rate and duration of the loan.
 It allows you to play around with the individual fields to e.g. find the right duration to match your desired monthly payments.
@@ -188,7 +188,7 @@ It allows you to play around with the individual fields to e.g. find the right d
   </tr>
 </table>
 
-### [HabitTracker](https://github.com/mberndt92/HabitTracker)
+### 🏃🏻‍♀️ [HabitTracker](https://github.com/mberndt92/HabitTracker)
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
@@ -197,7 +197,7 @@ It allows you to play around with the individual fields to e.g. find the right d
   </tr>
 </table>
 
-### [CupcakeCorner](https://github.com/mberndt92/CupcakeCorner)
+### 🧁 [CupcakeCorner](https://github.com/mberndt92/CupcakeCorner)
 Cupcake Corner is an app that allows you to order virtual cupcakes right to the comfort of your imagination.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
@@ -216,7 +216,7 @@ Cupcake Corner is an app that allows you to order virtual cupcakes right to the 
   
 </table>
 
-### [Bookworm](https://github.com/mberndt92/Bookworm)
+### 📚 [Bookworm](https://github.com/mberndt92/Bookworm)
 Bookworm is an app that helps you keep track of books you read and allows you to provide a review with a rating so you might recommend it to friends.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
@@ -238,7 +238,7 @@ Bookworm is an app that helps you keep track of books you read and allows you to
   </tr>
 </table>
 
-### [WordScramble](https://github.com/mberndt92/WordScramble)
+### 🧩 [WordScramble](https://github.com/mberndt92/WordScramble)
 WordScramble is a game that provides you with a random word and challenges you to find as many words that can be constructed using the letters from the random word.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
@@ -256,7 +256,7 @@ WordScramble is a game that provides you with a random word and challenges you t
   </tr>
 </table>
 
-### [GuessTheFlag](https://github.com/mberndt92/GuessTheFlag)
+### 🇩🇪 [GuessTheFlag](https://github.com/mberndt92/GuessTheFlag)
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
@@ -265,7 +265,7 @@ WordScramble is a game that provides you with a random word and challenges you t
   </tr>
 </table>
 
-### [CoreDataProject](https://github.com/mberndt92/CoreDataProject)
+### 💽 [CoreDataProject](https://github.com/mberndt92/CoreDataProject)
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
@@ -274,7 +274,7 @@ WordScramble is a game that provides you with a random word and challenges you t
   </tr>
 </table>
 
-### [Drawing](https://github.com/mberndt92/Drawing)
+### ✍🏻 [Drawing](https://github.com/mberndt92/Drawing)
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
@@ -283,7 +283,7 @@ WordScramble is a game that provides you with a random word and challenges you t
   </tr>
 </table>
 
-### [Animations](https://github.com/mberndt92/Animations)
+### 🦄 [Animations](https://github.com/mberndt92/Animations)
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
@@ -292,7 +292,7 @@ WordScramble is a game that provides you with a random word and challenges you t
   </tr>
 </table>
 
-### [MultiplicationTables](https://github.com/mberndt92/MultiplicationTables)
+### ✖️ [MultiplicationTables](https://github.com/mberndt92/MultiplicationTables)
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
@@ -301,7 +301,7 @@ WordScramble is a game that provides you with a random word and challenges you t
   </tr>
 </table>
 
-### [BetterSleep](https://github.com/mberndt92/BetterSleep)
+### 😴 [BetterSleep](https://github.com/mberndt92/BetterSleep)
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
@@ -310,7 +310,7 @@ WordScramble is a game that provides you with a random word and challenges you t
   </tr>
 </table>
 
-### [RockPaperScissors](https://github.com/mberndt92/RockPaperScissors)
+### 🪨🗞️ [RockPaperScissors](https://github.com/mberndt92/RockPaperScissors)
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
