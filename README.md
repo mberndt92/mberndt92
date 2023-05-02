@@ -189,11 +189,24 @@ It allows you to play around with the individual fields to e.g. find the right d
 </table>
 
 ### 🏃🏻‍♀️ [HabitTracker](https://github.com/mberndt92/HabitTracker)
+HabitTracker is an app that allows you to keep track of your daily habits.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> List of habits </td> 
+    <td> Save to UserDefaults </td>
+  </tr>
+  <tr> 
+    <td> Add new habits </td> 
+    <td> StateObject </td>
+  </tr>
+  <tr> 
+    <td> View habit details and increase count </td> 
+    <td> </td>
+  </tr>
+  <tr> 
+    <td> Deleting habits </td> 
+    <td> </td>
   </tr>
 </table>
 
@@ -257,82 +270,172 @@ WordScramble is a game that provides you with a random word and challenges you t
 </table>
 
 ### 🇩🇪 [GuessTheFlag](https://github.com/mberndt92/GuessTheFlag)
+GuessTheFlag is a game that challenges you to guess the flags of a list of countries.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> Play a game of ~7 rounds </td> 
+    <td> Animations </td>
+  </tr>
+  <tr> 
+    <td> Tap flags to select answers </td> 
+    <td> Accessibility </td>
+  </tr>
+  <tr> 
+    <td> Show amount of correct answers </td> 
+    <td> </td>
   </tr>
 </table>
 
 ### 💽 [CoreDataProject](https://github.com/mberndt92/CoreDataProject)
+Technique Project, showcasing a few techniques useful when working with CoreData.
 <table>
-  <tr><th> Features </th> <th> Tech </th> </tr>
+  <tr><th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> Core Data </td>
+  </tr>
+  <tr> 
+    <td> FetchRequests </td>
+  </tr>
+  <tr> 
+    <td> SortDescriptors </td>
+  </tr>
+  <tr> 
+    <td> FilterPredicates </td>
+  </tr>
+  <tr> 
+    <td> FilterKeys </td>
+  </tr>
+  <tr> 
+    <td> Relations </td>
   </tr>
 </table>
 
 ### ✍🏻 [Drawing](https://github.com/mberndt92/Drawing)
+Drawing is a demo project to showcase various interesting drawing techniques.
+Tech indicates how the feature is implemented
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> Blur </td> 
+    <td> Blur </td>
+  </tr>
+  <tr> 
+    <td> Checkerboard </td> 
+    <td> AnimatablePair & Path drawing </td>
+  </tr>
+  <tr> 
+    <td> ColorCyclingCircle </td> 
+    <td> Circle w/ inset, stroke border & gradient as drawingGroup </td>
+  </tr>
+  <tr> 
+    <td> ColorCyclingRectangle </td> 
+    <td> Rectangle w/ inset, stroke border & gradient as drawingGroup </td>
+  </tr>
+  <tr> 
+    <td> Flower </td> 
+    <td> Path drawing </td>
+  </tr>
+  <tr> 
+    <td> ScreenBlender </td> 
+    <td> .blenMode(.screen) on shapes </td>
+  </tr>
+  <tr> 
+    <td> Spirograph </td> 
+    <td> A lot of math and drawing </td>
+  </tr>
+  <tr> 
+    <td> Trapezoid </td> 
+    <td> Path drawing with animating insetAmount </td>
   </tr>
 </table>
 
 ### 🦄 [Animations](https://github.com/mberndt92/Animations)
+Animations is a demo project to showcase various interesting animation techniques.
+Tech indicates how the feature is implemented
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> AsymetricAnimation </td> 
+    <td>  </td>
+  </tr>
+  <tr> 
+    <td> ButtonTransitionAnimation </td> 
+    <td>  </td>
+  </tr>
+  <tr> 
+    <td> Pulsing </td> 
+    <td> Padding + Overlay, infinite animation of opacity </td>
+  </tr>
+  <tr> 
+    <td> ScaleEffect </td> 
+    <td> .scaleEffect </td>
+  </tr>
+  <tr> 
+    <td> SnakeHelloWorld </td> 
+    <td> Animate moving character by character with a drag animation **with delay** </td>
+  </tr>
+  <tr> 
+    <td> ViewDragging </td> 
+    <td> Animate drag </td>
   </tr>
 </table>
 
 ### ✖️ [MultiplicationTables](https://github.com/mberndt92/MultiplicationTables)
+Practice Multiplication Tables!
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> Configure your game settings </td> 
+    <td>  </td>
+  </tr>
+  <tr> 
+    <td> Generate random questions </td> 
+    <td>  </td>
   </tr>
 </table>
 
 ### 😴 [BetterSleep](https://github.com/mberndt92/BetterSleep)
+BetterSleep is a project that leverages unscientifical data to rely on machine learning to predict recommended bed time to get the desired amount of sleep.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> Predict bed time based on various input parameters </td> 
+    <td> CoreML </td>
   </tr>
 </table>
 
 ### 🪨🗞️✂️ [RockPaperScissors](https://github.com/mberndt92/RockPaperScissors)
+RockPaperScissors is a game that challenges to make the right move.
+It poses a scenario where the computer makes a certain move and you are asked to pick the right move to either win or lose.
+
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> Play custom RPS Game =D </td> 
+    <td> SF Symbols </td>
   </tr>
 </table>
 
 ### 💸 [WeSplit](https://github.com/mberndt92/WeSplit)
+WeSplit is an app that allows you to split the bill with your friends by calculating everyones share.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> Calculate per person amount based on various input parameters </td> 
+    <td> Forms --\_(o.o)_/-- </td>
   </tr>
 </table>
 
 ### 💦 [ConvertMe](https://github.com/mberndt92/ConvertMe)
+ConvertMe is a project that allows you to convert between different units.
+Or it would be if I actually went above and beyond as I planned to and implemented all the conversions.
+But I decided to stick with the task requirements after all and implement only a single conversion.
+
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> Convert different units for temperature </td> 
+    <td> </td>
   </tr>
 </table>
