@@ -145,26 +145,46 @@ InstaFilter is a handy app, that allows you to add various filters to your photo
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> Pick photo from library </td> 
+    <td> ImagePicker to pick photo from library </td>
+  </tr>
+  <tr> 
+    <td> Apply various filters (e.g. Bloom, Crystallize, Gaussian Blur, Pixellate, etc.) </td> 
+    <td> CIFilter for various filters with configurations </td>
+  </tr>
+  <tr> 
+    <td> Save the image with the applied filter to the photos library </td> 
+    <td> UIImageWriteToSavedPhotosAlbum to save photo with filter </td>
   </tr>
 </table>
 
 ### [FriendFace](https://github.com/mberndt92/FriendFace)
+FriendFace is a social media app that let's you view people, their information as well as their online status
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> View list of your friends </td> 
+    <td> Core Data </td>
+  </tr>
+  <tr>
+    <td> View detailed information about each friend </td> 
+    <td> SF Symbols </td>
+  </tr>
+  <tr> 
+    <td> View online status of each friend </td> 
+    <td> UIColor+HexString extension for colorful pill designs </td>
   </tr>
 </table>
 
 ### [LoanCalculator](https://github.com/mberndt92/LoanCalculator)
+!Not a financial advisor and not guaranteed to be accurate!
+LoanCalculator is an app that allows you to estimate your monthly expenses for a loan for purchasing a property based on various input fields such as price of the property, down payment, interest rate and duration of the loan.
+It allows you to play around with the individual fields to e.g. find the right duration to match your desired monthly payments.
 <table>
   <tr><th> Features </th> <th> Tech </th> </tr>
   <tr> 
-    <td> WIP </td> 
-    <td> WIP </td>
+    <td> Calculate estimated monthly expenses for a loan</td> 
+    <td> Loan calculation formulae </td>
   </tr>
 </table>
 
