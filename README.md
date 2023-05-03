@@ -176,18 +176,6 @@ FriendFace is a social media app that let's you view people, their information a
   </tr>
 </table>
 
-### 🏦 [LoanCalculator](https://github.com/mberndt92/LoanCalculator)
-!Not a financial advisor and not guaranteed to be accurate!
-LoanCalculator is an app that allows you to estimate your monthly expenses for a loan for purchasing a property based on various input fields such as price of the property, down payment, interest rate and duration of the loan.
-It allows you to play around with the individual fields to e.g. find the right duration to match your desired monthly payments.
-<table>
-  <tr><th> Features </th> <th> Tech </th> </tr>
-  <tr> 
-    <td> Calculate estimated monthly expenses for a loan</td> 
-    <td> Loan calculation formulae </td>
-  </tr>
-</table>
-
 ### 🏃🏻‍♀️ [HabitTracker](https://github.com/mberndt92/HabitTracker)
 HabitTracker is an app that allows you to keep track of your daily habits.
 <table>
