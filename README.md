@@ -13,6 +13,18 @@ This is something I created for myself so I have an easy way to find projects I 
 If you are interested, jump to the repository side.
 I tried to upload animated gifs showing the main features for most of them.
 
+### ⛷️ [SnowSeeker](https://github.com/mberndt92/SnowSeeker)
+**TBD**
+
+### 🎲 [HighRoller](https://github.com/mberndt92/HighRoller)
+**TBD**
+
+### 📐 [LayoutAndGeometry](https://github.com/mberndt92/LayoutAndGeometry)
+**TBD**
+
+### 📚 [Flashzilla](https://github.com/mberndt92/Flashzilla)
+**TBD**
+
 ### 🔥 [Hot Prospects](https://github.com/mberndt92/HotProspects)
 Hot prospects is an app that can be useful for e.g. meet-ups or conferences.
 You can scan potential prospect's QR codes to add them, mark them as contacted and set reminders.
