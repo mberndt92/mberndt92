@@ -2,7 +2,7 @@
 A few pieces of information about me, since you made it all the way to my GitHub profile.
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning: SwiftUI as part of #100DaysOfSwiftUI
+- 📱 Passionate iOS Engineer
 - 🧗 I love to go bouldering in my free time
 - 🥘 Did I mention already I'm a big foodie ?
 
