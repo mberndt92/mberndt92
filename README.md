@@ -6,7 +6,7 @@ A few pieces of information about me, since you made it all the way to my GitHub
 - 🧗 I love to go bouldering in my free time
 - 🥘 Did I mention already I'm a big foodie ?
 
-## Released Projects
+## Published Apps
 ### 🏦 [Loans - My Loan Calculator](https://apps.apple.com/us/app/loans-my-loan-calculator/id6449613147)
 An app to help you estimate loan costs and keeping track of them.
 
