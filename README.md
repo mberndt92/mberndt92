@@ -6,6 +6,10 @@ A few pieces of information about me, since you made it all the way to my GitHub
 - 🧗 I love to go bouldering in my free time
 - 🥘 Did I mention already I'm a big foodie ?
 
+## Released Projects
+### 🏦 [Loans - My Loan Calculator](https://apps.apple.com/us/app/loans-my-loan-calculator/id6449613147)
+An app to help you estimate loan costs and keeping track of them.
+
 ## Overview of my Projects
 Below I'm sharing an overview of my public repositories, an overview of the features of each repository as well as the tech used.
 This is something I created for myself so I have an easy way to find projects I used certain techniques in to re-use those or check the implementation one more time.
